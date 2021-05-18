@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">todo</string>
+    <string name="add_new">pridať nový</string>
+    <string name="cancel">zrušiť</string>
+    <string name="save">uložiť</string>
+    <string name="delete">zmazať</string>
+    <string name="main_activity_name">TODO List</string>
+    <string name="todo_activity_name">detail záznamu</string>
+
+</resources>
